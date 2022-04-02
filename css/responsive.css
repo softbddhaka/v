@@ -1,0 +1,365 @@
+@media (min-width: 320px) and (max-width: 479.98px){  
+/* navbar */
+.navbar {
+	padding: 30px;
+	background-color: rgb(238, 228, 214) !important;
+}
+.navbar-brand img{
+    width: 120px;
+}
+.navbar-light .navbar-toggler {
+	color: rgba(0,0,0,.55);
+	border-color: rgba(0,0,0,.8);
+}
+.d_none{
+    display: none;
+}
+.navbar .collaps_ul ul li {
+	display: list-item !important;
+    padding: 10px 5px;
+}
+.navbar .collaps_ul ul li:hover {
+	background-color: #5360b4;
+    
+}
+.navbar .collaps_ul ul li:hover a {
+	color: white;
+    
+}
+.side_link{
+    padding-top: 10px;
+}
+/* banner */
+#banner .banner {
+	padding: 100px 0;
+	margin-top: 50px;
+}
+#banner .banner_text h3 {
+	padding: 0 0px;
+}
+#banner .banner_text p {
+
+	padding: 20px 0px 60px 0px;
+
+}
+
+#footer .footer_item ul li a {
+	font-size: 12px;
+
+}
+
+
+/* sign */
+#modal .modal .modal-dialog .modal-content .modal-body {
+	padding: 0 5px;
+}
+#modal .modal .modal-dialog .modal-content .modal-body .sign .sign_main {
+	width: 100%;
+}
+#modal .modal .modal-dialog .modal-content .modal-body .sign .sign_main form img {
+	position: relative;
+	right: 30px;
+}
+#modal .modal .modal-dialog .modal-content .modal-body .sign .sign_main form label {
+	font-size: 15px;
+}
+#modal .modal .modal-dialog .modal-content .modal-body .sign .sign_main .date {
+	padding-left: 10px;
+}
+#modal .modal .modal-dialog .modal-content .modal-body .sign .sign_main h3 {
+	font-size: 15px;
+}
+
+
+/* login */
+#login .background_mg .login_bg {
+	 display: none;
+}
+#login .login_left {
+	display: none;
+}
+#login .login_right .login_form .input_div {
+	width: 80%;
+}
+#login .login_right .login_form .login_info {
+	width: 80%;
+}
+#login .login_right .login_form .login_button {
+	width: 80%;
+    margin-top: 20px;
+}
+
+/* plan */
+#plan .plan .plan_item .plan_service h6 a {
+	font-size: 16px;
+}
+.mt_4{
+    margin-top: 20px;
+}
+ }
+
+
+ @media (min-width: 480px) and (max-width: 575.98px){  
+    /* navbar */
+    .navbar {
+        padding: 30px;
+        background-color: rgb(238, 228, 214) !important;
+    }
+    .navbar-brand img{
+        width: 120px;
+    }
+    .navbar-light .navbar-toggler {
+        color: rgba(0,0,0,.55);
+        border-color: rgba(0,0,0,.8);
+    }
+    .d_none{
+        display: none;
+    }
+    .navbar .collaps_ul ul li {
+        display: list-item !important;
+        padding: 10px 5px;
+    }
+    .navbar .collaps_ul ul li:hover {
+        background-color: #5360b4;
+        
+    }
+    .navbar .collaps_ul ul li:hover a {
+        color: white;
+        
+    }
+    .side_link{
+        padding-top: 10px;
+    }
+    /* banner */
+    #banner .banner {
+        padding: 120px 0;
+        margin-top: 50px;
+    }
+    #banner .banner_text h3 {
+        padding: 0 0px;
+    }
+    #banner .banner_text p {
+    
+        padding: 20px 0px 60px 0px;
+    
+    }
+    
+    #footer .footer_item ul li a {
+        font-size: 12px;
+    
+    }
+   /* sign */
+#modal .modal .modal-dialog .modal-content .modal-body {
+	padding: 0 5px;
+}
+#modal .modal .modal-dialog .modal-content .modal-body .sign .sign_main {
+	width: 100%;
+}
+#modal .modal .modal-dialog .modal-content .modal-body .sign .sign_main form img {
+	right: 60px;
+}
+#modal .modal .modal-dialog .modal-content .modal-body .sign .sign_main form label {
+	font-size: 15px;
+}
+#modal .modal .modal-dialog .modal-content .modal-body .sign .sign_main .date {
+	padding-left: 10px;
+}
+#modal .modal .modal-dialog .modal-content .modal-body .sign .sign_main h3 {
+	font-size: 15px;
+}
+/* login */
+#login .background_mg .login_bg {
+    display: none;
+}
+#login .login_left {
+   display: none;
+}
+#login .login_right .login_form .input_div {
+   width: 70%;
+}
+#login .login_right .login_form .login_info {
+   width: 70%;
+}
+#login .login_right .login_form .login_button {
+   width: 70%;
+   margin-top: 20px;
+}    
+/*plan  */
+#plan .plan .plan_item .plan_service h6 a {
+	font-size: 16px;
+}
+.mt_4{
+    margin-top: 20px;
+}
+
+ }
+
+@media (min-width: 576px) and (max-width: 767.98px){  
+        /* navbar */
+        .navbar {
+            padding: 30px;
+            background-color: rgb(238, 228, 214) !important;
+        }
+        .navbar-brand img{
+            width: 120px;
+        }
+        .navbar-light .navbar-toggler {
+            color: rgba(0,0,0,.55);
+            border-color: rgba(0,0,0,.8);
+        }
+        .d_none{
+            display: none;
+        }
+        .navbar .collaps_ul ul li {
+            display: list-item !important;
+            padding: 10px 5px;
+        }
+        .navbar .collaps_ul ul li:hover {
+            background-color: #5360b4;
+            
+        }
+        .navbar .collaps_ul ul li:hover a {
+            color: white;
+            
+        }
+        .side_link{
+            padding-top: 10px;
+        }
+        /* banner */
+        #banner .banner {
+            padding:140px 0;
+            margin-top: 50px;
+        }
+        #banner .banner_text h3 {
+            padding: 0 0px;
+        }
+        #banner .banner_text p {
+        
+            padding: 20px 0px 60px 0px;
+        
+        }
+        
+        #footer .footer_item ul li a {
+            font-size: 12px;
+        
+        }
+        
+       /* sign */
+#modal .modal .modal-dialog .modal-content .modal-body {
+	padding: 0 5px;
+}
+#modal .modal .modal-dialog .modal-content .modal-body .sign .sign_main {
+	width: 100%;
+}
+#modal .modal .modal-dialog .modal-content .modal-body .sign .sign_main form img {
+	right: 100px;
+}
+#modal .modal .modal-dialog .modal-content .modal-body .sign .sign_main form label {
+	font-size: 15px;
+}
+#modal .modal .modal-dialog .modal-content .modal-body .sign .sign_main .date {
+	padding-left: 10px;
+}
+#modal .modal .modal-dialog .modal-content .modal-body .sign .sign_main h3 {
+	font-size: 15px;
+}
+/* login */
+#login .background_mg .login_bg {
+    display: none;
+}
+#login .login_left {
+   display: none;
+}
+#login .login_right .login_form .input_div {
+   width: 65%;
+}
+#login .login_right .login_form .login_info {
+   width: 65%;
+}
+#login .login_right .login_form .login_button {
+   width: 65%;
+   margin-top: 20px;
+}           
+   
+/* plan */
+#plan .plan .plan_item .plan_service h6 a {
+	font-size: 16px;
+}
+.mt_4{
+    margin-top: 20px;
+}
+
+ }
+
+
+@media (min-width: 768px) and (max-width: 991.98px){  
+            /* navbar */
+            .navbar {
+                padding: 30px;
+                background-color: rgb(238, 228, 214) !important;
+            }
+            .navbar-brand img{
+                width: 120px;
+            }
+            .navbar-light .navbar-toggler {
+                color: rgba(0,0,0,.55);
+                border-color: rgba(0,0,0,.8);
+            }
+            .d_none{
+                display: none;
+            }
+            .navbar .collaps_ul ul li {
+                display: list-item !important;
+                padding: 10px 5px;
+            }
+            .navbar .collaps_ul ul li:hover {
+                background-color: #5360b4;
+                
+            }
+            .navbar .collaps_ul ul li:hover a {
+                color: white;
+                
+            }
+            .side_link{
+                padding-top: 10px;
+            }
+            /* banner */
+            #banner .banner {
+                padding: 180px 0;
+                margin-top: 50px;
+            }
+            #banner .banner_text h3 {
+                padding: 0 0px;
+            }
+            #banner .banner_text p {
+            
+                padding: 20px 0px 60px 0px;
+            
+            }
+            
+            #footer .footer_item ul li a {
+                font-size: 12px;
+            
+            }
+    
+      /* login */
+#login .background_mg .login_bg {
+    display: none;
+}
+#login .login_left {
+   display: none;
+}
+#login .login_right .login_form .input_div {
+   width: 60%;
+}
+#login .login_right .login_form .login_info {
+   width: 60%;
+}
+#login .login_right .login_form .login_button {
+   width: 60%;
+   margin-top: 20px;
+}          
+            
+            
+            
+ }
